@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "alert-message": "^0.1.24",
+    "axios": "^1.6.3",
+    "rsuite": "^5.49.0",
+    "sweetalert2": "^11.10.2"
+  },
+  "devDependencies": {
+    "daisyui": "^4.5.0"
+  }
+}
